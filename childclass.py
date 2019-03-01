@@ -6,7 +6,7 @@ class MyRouter(object):
 		self.model = model
 		self.serialno = serialno
 		self.ios = ios
-
+      #router 7alab yev eshnesikim 
 	def print_router(self, manuf_date):
 		print("The router name is: ", self.routername)
 		print("The router model is: ", self.model)
